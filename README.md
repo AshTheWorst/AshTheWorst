@@ -10,5 +10,5 @@ Lots of things I am enthuastic about and interested in to learn,create,share and
 - 🌱 I’m currently learning the extensive use of OOPS in both the languages.
 - I will be sharing lots of projects/games/programs I have made or will made here.
 - If anyone has any problem with any of my projects i will be much happy to help.
-- Thats all for now , thanks for reading it all.
+- Thats all for now , thanks for reading through it all.
 
